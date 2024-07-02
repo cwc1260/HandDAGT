@@ -1,6 +1,8 @@
 # HandDAGT: A Denoising Adaptive Graph Transformer for 3D Hand Pose Estimation
 
-This is the implementation of the manuscript
+Wencan Cheng, Eun-ji Kim and Jong Hwan Ko
+
+European Conference on Computer Vision (ECCV), 2024
 
 
 ## Prerequisities
